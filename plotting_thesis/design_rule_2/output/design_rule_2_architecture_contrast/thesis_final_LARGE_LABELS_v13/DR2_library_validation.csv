@@ -1,0 +1,97 @@
+pair,architecture,n_replicates
+IGLG,Alternating,3
+IGLG,Small blocks,3
+IGLG,Medium blocks,3
+IGLG,Large blocks,3
+IGLG,Diblock,3
+IGLG,Random shuffle,3
+IGLG,Higher-$\lambda$ center,3
+IGLG,Higher-$\lambda$ ends,3
+AVGAG,Alternating,3
+AVGAG,Small blocks,3
+AVGAG,Medium blocks,3
+AVGAG,Large blocks,3
+AVGAG,Diblock,3
+AVGAG,Random shuffle,3
+AVGAG,Higher-$\lambda$ center,3
+AVGAG,Higher-$\lambda$ ends,3
+IGIP,Alternating,3
+IGIP,Small blocks,3
+IGIP,Medium blocks,3
+IGIP,Large blocks,3
+IGIP,Diblock,3
+IGIP,Random shuffle,3
+IGIP,Higher-$\lambda$ center,3
+IGIP,Higher-$\lambda$ ends,3
+VGAVG,Alternating,3
+VGAVG,Small blocks,3
+VGAVG,Medium blocks,3
+VGAVG,Large blocks,3
+VGAVG,Diblock,3
+VGAVG,Random shuffle,3
+VGAVG,Higher-$\lambda$ center,3
+VGAVG,Higher-$\lambda$ ends,3
+VGIP,Alternating,3
+VGIP,Small blocks,3
+VGIP,Medium blocks,3
+VGIP,Large blocks,3
+VGIP,Diblock,3
+VGIP,Random shuffle,3
+VGIP,Higher-$\lambda$ center,3
+VGIP,Higher-$\lambda$ ends,3
+GGNG,Alternating,3
+GGNG,Small blocks,3
+GGNG,Medium blocks,3
+GGNG,Large blocks,3
+GGNG,Diblock,3
+GGNG,Random shuffle,3
+GGNG,Higher-$\lambda$ center,3
+GGNG,Higher-$\lambda$ ends,3
+LGIP,Alternating,3
+LGIP,Small blocks,3
+LGIP,Medium blocks,3
+LGIP,Large blocks,3
+LGIP,Diblock,3
+LGIP,Random shuffle,3
+LGIP,Higher-$\lambda$ center,3
+LGIP,Higher-$\lambda$ ends,3
+GGAVG,Alternating,3
+GGAVG,Small blocks,3
+GGAVG,Medium blocks,3
+GGAVG,Large blocks,3
+GGAVG,Diblock,3
+GGAVG,Random shuffle,3
+GGAVG,Higher-$\lambda$ center,3
+GGAVG,Higher-$\lambda$ ends,3
+VAIP,Alternating,3
+VAIP,Small blocks,3
+VAIP,Medium blocks,3
+VAIP,Large blocks,3
+VAIP,Diblock,3
+VAIP,Random shuffle,3
+VAIP,Higher-$\lambda$ center,3
+VAIP,Higher-$\lambda$ ends,3
+VGIG,Alternating,3
+VGIG,Small blocks,3
+VGIG,Medium blocks,3
+VGIG,Large blocks,3
+VGIG,Diblock,3
+VGIG,Random shuffle,3
+VGIG,Higher-$\lambda$ center,3
+VGIG,Higher-$\lambda$ ends,3
+VAIG,Alternating,3
+VAIG,Small blocks,3
+VAIG,Medium blocks,3
+VAIG,Large blocks,3
+VAIG,Diblock,3
+VAIG,Random shuffle,3
+VAIG,Higher-$\lambda$ center,3
+VAIG,Higher-$\lambda$ ends,3
+AVGFG,Alternating,3
+AVGFG,Small blocks,3
+AVGFG,Medium blocks,3
+AVGFG,Large blocks,3
+AVGFG,Diblock,3
+AVGFG,Random shuffle,3
+AVGFG,Higher-$\lambda$ center,3
+AVGFG,Higher-$\lambda$ ends,3

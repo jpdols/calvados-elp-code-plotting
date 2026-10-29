@@ -1,0 +1,337 @@
+pair,delta_lambda,architecture_1,architecture_2,mean_difference,p_adjusted,ci_low,ci_high,significant
+IGLG,0.016093239471200005,Alternating,Diblock,-0.0289,0.9992,-0.2146,0.1569,False
+IGLG,0.016093239471200005,Alternating,Higher-$\lambda$ center,-0.0595,0.9454,-0.2453,0.1262,False
+IGLG,0.016093239471200005,Alternating,Higher-$\lambda$ ends,-0.0516,0.9738,-0.2374,0.1341,False
+IGLG,0.016093239471200005,Alternating,Large blocks,-0.033,0.9981,-0.2188,0.1527,False
+IGLG,0.016093239471200005,Alternating,Medium blocks,-0.0751,0.8448,-0.2608,0.1106,False
+IGLG,0.016093239471200005,Alternating,Random shuffle,-0.047,0.9843,-0.2327,0.1387,False
+IGLG,0.016093239471200005,Alternating,Small blocks,-0.0131,1.0,-0.1988,0.1726,False
+IGLG,0.016093239471200005,Diblock,Higher-$\lambda$ center,-0.0306,0.9988,-0.2164,0.1551,False
+IGLG,0.016093239471200005,Diblock,Higher-$\lambda$ ends,-0.0227,0.9998,-0.2085,0.163,False
+IGLG,0.016093239471200005,Diblock,Large blocks,-0.0042,1.0,-0.1899,0.1816,False
+IGLG,0.016093239471200005,Diblock,Medium blocks,-0.0462,0.9857,-0.232,0.1395,False
+IGLG,0.016093239471200005,Diblock,Random shuffle,-0.0181,1.0,-0.2039,0.1676,False
+IGLG,0.016093239471200005,Diblock,Small blocks,0.0158,1.0,-0.17,0.2015,False
+IGLG,0.016093239471200005,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.0079,1.0,-0.1778,0.1936,False
+IGLG,0.016093239471200005,Higher-$\lambda$ center,Large blocks,0.0265,0.9995,-0.1593,0.2122,False
+IGLG,0.016093239471200005,Higher-$\lambda$ center,Medium blocks,-0.0156,1.0,-0.2013,0.1702,False
+IGLG,0.016093239471200005,Higher-$\lambda$ center,Random shuffle,0.0125,1.0,-0.1732,0.1983,False
+IGLG,0.016093239471200005,Higher-$\lambda$ center,Small blocks,0.0464,0.9854,-0.1393,0.2322,False
+IGLG,0.016093239471200005,Higher-$\lambda$ ends,Large blocks,0.0186,1.0,-0.1672,0.2043,False
+IGLG,0.016093239471200005,Higher-$\lambda$ ends,Medium blocks,-0.0235,0.9998,-0.2092,0.1623,False
+IGLG,0.016093239471200005,Higher-$\lambda$ ends,Random shuffle,0.0046,1.0,-0.1811,0.1904,False
+IGLG,0.016093239471200005,Higher-$\lambda$ ends,Small blocks,0.0385,0.9951,-0.1472,0.2243,False
+IGLG,0.016093239471200005,Large blocks,Medium blocks,-0.042,0.9917,-0.2278,0.1437,False
+IGLG,0.016093239471200005,Large blocks,Random shuffle,-0.014,1.0,-0.1997,0.1718,False
+IGLG,0.016093239471200005,Large blocks,Small blocks,0.0199,0.9999,-0.1658,0.2057,False
+IGLG,0.016093239471200005,Medium blocks,Random shuffle,0.0281,0.9993,-0.1576,0.2138,False
+IGLG,0.016093239471200005,Medium blocks,Small blocks,0.062,0.9335,-0.1238,0.2477,False
+IGLG,0.016093239471200005,Random shuffle,Small blocks,0.0339,0.9977,-0.1518,0.2196,False
+AVGAG,0.02736589274520007,Alternating,Diblock,-0.0968,0.9261,-0.3804,0.1868,False
+AVGAG,0.02736589274520007,Alternating,Higher-$\lambda$ center,-0.0751,0.9798,-0.3587,0.2085,False
+AVGAG,0.02736589274520007,Alternating,Higher-$\lambda$ ends,0.0941,0.9355,-0.1895,0.3776,False
+AVGAG,0.02736589274520007,Alternating,Large blocks,-0.0109,1.0,-0.2945,0.2727,False
+AVGAG,0.02736589274520007,Alternating,Medium blocks,0.0307,0.9999,-0.2529,0.3143,False
+AVGAG,0.02736589274520007,Alternating,Random shuffle,0.035,0.9998,-0.2486,0.3186,False
+AVGAG,0.02736589274520007,Alternating,Small blocks,-0.0031,1.0,-0.2867,0.2805,False
+AVGAG,0.02736589274520007,Diblock,Higher-$\lambda$ center,0.0217,1.0,-0.2619,0.3053,False
+AVGAG,0.02736589274520007,Diblock,Higher-$\lambda$ ends,0.1908,0.336,-0.0928,0.4744,False
+AVGAG,0.02736589274520007,Diblock,Large blocks,0.0859,0.9589,-0.1977,0.3694,False
+AVGAG,0.02736589274520007,Diblock,Medium blocks,0.1275,0.7679,-0.1561,0.4111,False
+AVGAG,0.02736589274520007,Diblock,Random shuffle,0.1318,0.7394,-0.1518,0.4154,False
+AVGAG,0.02736589274520007,Diblock,Small blocks,0.0937,0.9367,-0.1899,0.3773,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.1692,0.4735,-0.1144,0.4528,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ center,Large blocks,0.0642,0.9917,-0.2194,0.3478,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ center,Medium blocks,0.1058,0.8893,-0.1778,0.3894,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ center,Random shuffle,0.1101,0.8687,-0.1735,0.3937,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ center,Small blocks,0.072,0.984,-0.2116,0.3556,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ ends,Large blocks,-0.105,0.893,-0.3886,0.1786,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ ends,Medium blocks,-0.0634,0.9923,-0.347,0.2202,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ ends,Random shuffle,-0.0591,0.9949,-0.3427,0.2245,False
+AVGAG,0.02736589274520007,Higher-$\lambda$ ends,Small blocks,-0.0972,0.9247,-0.3808,0.1864,False
+AVGAG,0.02736589274520007,Large blocks,Medium blocks,0.0416,0.9994,-0.242,0.3252,False
+AVGAG,0.02736589274520007,Large blocks,Random shuffle,0.0459,0.9989,-0.2377,0.3295,False
+AVGAG,0.02736589274520007,Large blocks,Small blocks,0.0078,1.0,-0.2758,0.2914,False
+AVGAG,0.02736589274520007,Medium blocks,Random shuffle,0.0043,1.0,-0.2793,0.2879,False
+AVGAG,0.02736589274520007,Medium blocks,Small blocks,-0.0338,0.9999,-0.3174,0.2498,False
+AVGAG,0.02736589274520007,Random shuffle,Small blocks,-0.0381,0.9997,-0.3217,0.2455,False
+IGIP,0.05558892763900003,Alternating,Diblock,0.1252,0.7379,-0.1438,0.3942,False
+IGIP,0.05558892763900003,Alternating,Higher-$\lambda$ center,0.1193,0.7788,-0.1497,0.3883,False
+IGIP,0.05558892763900003,Alternating,Higher-$\lambda$ ends,0.1323,0.6861,-0.1367,0.4013,False
+IGIP,0.05558892763900003,Alternating,Large blocks,0.1634,0.4525,-0.1056,0.4324,False
+IGIP,0.05558892763900003,Alternating,Medium blocks,0.1492,0.5578,-0.1199,0.4182,False
+IGIP,0.05558892763900003,Alternating,Random shuffle,0.1403,0.6252,-0.1287,0.4094,False
+IGIP,0.05558892763900003,Alternating,Small blocks,0.0967,0.9061,-0.1723,0.3657,False
+IGIP,0.05558892763900003,Diblock,Higher-$\lambda$ center,-0.0059,1.0,-0.2749,0.2631,False
+IGIP,0.05558892763900003,Diblock,Higher-$\lambda$ ends,0.0071,1.0,-0.2619,0.2761,False
+IGIP,0.05558892763900003,Diblock,Large blocks,0.0382,0.9995,-0.2308,0.3072,False
+IGIP,0.05558892763900003,Diblock,Medium blocks,0.024,1.0,-0.2451,0.293,False
+IGIP,0.05558892763900003,Diblock,Random shuffle,0.0151,1.0,-0.2539,0.2842,False
+IGIP,0.05558892763900003,Diblock,Small blocks,-0.0285,0.9999,-0.2975,0.2405,False
+IGIP,0.05558892763900003,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.013,1.0,-0.256,0.282,False
+IGIP,0.05558892763900003,Higher-$\lambda$ center,Large blocks,0.0441,0.9989,-0.2249,0.3131,False
+IGIP,0.05558892763900003,Higher-$\lambda$ center,Medium blocks,0.0299,0.9999,-0.2392,0.2989,False
+IGIP,0.05558892763900003,Higher-$\lambda$ center,Random shuffle,0.021,1.0,-0.248,0.2901,False
+IGIP,0.05558892763900003,Higher-$\lambda$ center,Small blocks,-0.0226,1.0,-0.2916,0.2464,False
+IGIP,0.05558892763900003,Higher-$\lambda$ ends,Large blocks,0.0311,0.9999,-0.2379,0.3001,False
+IGIP,0.05558892763900003,Higher-$\lambda$ ends,Medium blocks,0.0169,1.0,-0.2522,0.2859,False
+IGIP,0.05558892763900003,Higher-$\lambda$ ends,Random shuffle,0.008,1.0,-0.261,0.2771,False
+IGIP,0.05558892763900003,Higher-$\lambda$ ends,Small blocks,-0.0356,0.9997,-0.3046,0.2334,False
+IGIP,0.05558892763900003,Large blocks,Medium blocks,-0.0142,1.0,-0.2833,0.2548,False
+IGIP,0.05558892763900003,Large blocks,Random shuffle,-0.0231,1.0,-0.2921,0.246,False
+IGIP,0.05558892763900003,Large blocks,Small blocks,-0.0667,0.986,-0.3357,0.2023,False
+IGIP,0.05558892763900003,Medium blocks,Random shuffle,-0.0088,1.0,-0.2778,0.2602,False
+IGIP,0.05558892763900003,Medium blocks,Small blocks,-0.0525,0.9966,-0.3215,0.2166,False
+IGIP,0.05558892763900003,Random shuffle,Small blocks,-0.0436,0.9989,-0.3127,0.2254,False
+VGAVG,0.05558892763900003,Alternating,Diblock,0.1229,0.8849,-0.2035,0.4493,False
+VGAVG,0.05558892763900003,Alternating,Higher-$\lambda$ center,-0.0555,0.9986,-0.3819,0.2709,False
+VGAVG,0.05558892763900003,Alternating,Higher-$\lambda$ ends,0.1282,0.862,-0.1982,0.4546,False
+VGAVG,0.05558892763900003,Alternating,Large blocks,0.0379,0.9999,-0.2885,0.3643,False
+VGAVG,0.05558892763900003,Alternating,Medium blocks,0.1222,0.8876,-0.2042,0.4486,False
+VGAVG,0.05558892763900003,Alternating,Random shuffle,0.0906,0.974,-0.2358,0.417,False
+VGAVG,0.05558892763900003,Alternating,Small blocks,-0.0393,0.9998,-0.3657,0.2871,False
+VGAVG,0.05558892763900003,Diblock,Higher-$\lambda$ center,-0.1784,0.5742,-0.5048,0.148,False
+VGAVG,0.05558892763900003,Diblock,Higher-$\lambda$ ends,0.0054,1.0,-0.321,0.3318,False
+VGAVG,0.05558892763900003,Diblock,Large blocks,-0.0849,0.9817,-0.4113,0.2415,False
+VGAVG,0.05558892763900003,Diblock,Medium blocks,-0.0007,1.0,-0.3271,0.3257,False
+VGAVG,0.05558892763900003,Diblock,Random shuffle,-0.0323,1.0,-0.3587,0.2941,False
+VGAVG,0.05558892763900003,Diblock,Small blocks,-0.1621,0.676,-0.4885,0.1643,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.1837,0.5405,-0.1427,0.5101,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ center,Large blocks,0.0934,0.9693,-0.233,0.4198,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ center,Medium blocks,0.1777,0.5784,-0.1487,0.5041,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ center,Random shuffle,0.1461,0.7715,-0.1803,0.4725,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ center,Small blocks,0.0162,1.0,-0.3102,0.3426,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ ends,Large blocks,-0.0903,0.9744,-0.4167,0.2361,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ ends,Medium blocks,-0.0061,1.0,-0.3325,0.3203,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ ends,Random shuffle,-0.0377,0.9999,-0.3641,0.2887,False
+VGAVG,0.05558892763900003,Higher-$\lambda$ ends,Small blocks,-0.1675,0.6425,-0.4939,0.1589,False
+VGAVG,0.05558892763900003,Large blocks,Medium blocks,0.0843,0.9825,-0.2422,0.4107,False
+VGAVG,0.05558892763900003,Large blocks,Random shuffle,0.0526,0.999,-0.2738,0.379,False
+VGAVG,0.05558892763900003,Large blocks,Small blocks,-0.0772,0.9893,-0.4036,0.2492,False
+VGAVG,0.05558892763900003,Medium blocks,Random shuffle,-0.0316,1.0,-0.358,0.2948,False
+VGAVG,0.05558892763900003,Medium blocks,Small blocks,-0.1615,0.6802,-0.4879,0.1649,False
+VGAVG,0.05558892763900003,Random shuffle,Small blocks,-0.1298,0.8547,-0.4562,0.1966,False
+VGIP,0.05801435646719999,Alternating,Diblock,0.066,0.9995,-0.3955,0.5276,False
+VGIP,0.05801435646719999,Alternating,Higher-$\lambda$ center,-0.2636,0.5238,-0.7252,0.1979,False
+VGIP,0.05801435646719999,Alternating,Higher-$\lambda$ ends,0.3518,0.2116,-0.1098,0.8134,False
+VGIP,0.05801435646719999,Alternating,Large blocks,0.0142,1.0,-0.4474,0.4757,False
+VGIP,0.05801435646719999,Alternating,Medium blocks,-0.0203,1.0,-0.4818,0.4413,False
+VGIP,0.05801435646719999,Alternating,Random shuffle,0.0347,1.0,-0.4269,0.4963,False
+VGIP,0.05801435646719999,Alternating,Small blocks,0.0644,0.9996,-0.3972,0.5259,False
+VGIP,0.05801435646719999,Diblock,Higher-$\lambda$ center,-0.3297,0.2733,-0.7912,0.1319,False
+VGIP,0.05801435646719999,Diblock,Higher-$\lambda$ ends,0.2858,0.4302,-0.1758,0.7473,False
+VGIP,0.05801435646719999,Diblock,Large blocks,-0.0519,0.9999,-0.5134,0.4097,False
+VGIP,0.05801435646719999,Diblock,Medium blocks,-0.0863,0.9974,-0.5478,0.3753,False
+VGIP,0.05801435646719999,Diblock,Random shuffle,-0.0313,1.0,-0.4929,0.4302,False
+VGIP,0.05801435646719999,Diblock,Small blocks,-0.0017,1.0,-0.4632,0.4599,False
+VGIP,0.05801435646719999,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.6154,0.0054,0.1539,1.077,True
+VGIP,0.05801435646719999,Higher-$\lambda$ center,Large blocks,0.2778,0.4631,-0.1838,0.7394,False
+VGIP,0.05801435646719999,Higher-$\lambda$ center,Medium blocks,0.2434,0.6136,-0.2182,0.7049,False
+VGIP,0.05801435646719999,Higher-$\lambda$ center,Random shuffle,0.2983,0.3809,-0.1632,0.7599,False
+VGIP,0.05801435646719999,Higher-$\lambda$ center,Small blocks,0.328,0.2784,-0.1336,0.7896,False
+VGIP,0.05801435646719999,Higher-$\lambda$ ends,Large blocks,-0.3376,0.2497,-0.7992,0.1239,False
+VGIP,0.05801435646719999,Higher-$\lambda$ ends,Medium blocks,-0.3721,0.1653,-0.8336,0.0895,False
+VGIP,0.05801435646719999,Higher-$\lambda$ ends,Random shuffle,-0.3171,0.3136,-0.7787,0.1445,False
+VGIP,0.05801435646719999,Higher-$\lambda$ ends,Small blocks,-0.2874,0.4235,-0.749,0.1741,False
+VGIP,0.05801435646719999,Large blocks,Medium blocks,-0.0344,1.0,-0.496,0.4271,False
+VGIP,0.05801435646719999,Large blocks,Random shuffle,0.0205,1.0,-0.441,0.4821,False
+VGIP,0.05801435646719999,Large blocks,Small blocks,0.0502,0.9999,-0.4114,0.5118,False
+VGIP,0.05801435646719999,Medium blocks,Random shuffle,0.055,0.9999,-0.4066,0.5165,False
+VGIP,0.05801435646719999,Medium blocks,Small blocks,0.0846,0.9977,-0.3769,0.5462,False
+VGIP,0.05801435646719999,Random shuffle,Small blocks,0.0297,1.0,-0.4319,0.4912,False
+GGNG,0.05965295787199998,Alternating,Diblock,0.003,1.0,-0.3025,0.3085,False
+GGNG,0.05965295787199998,Alternating,Higher-$\lambda$ center,-0.2708,0.1024,-0.5763,0.0347,False
+GGNG,0.05965295787199998,Alternating,Higher-$\lambda$ ends,0.1571,0.6407,-0.1484,0.4625,False
+GGNG,0.05965295787199998,Alternating,Large blocks,0.0124,1.0,-0.293,0.3179,False
+GGNG,0.05965295787199998,Alternating,Medium blocks,-0.0347,0.9999,-0.3402,0.2708,False
+GGNG,0.05965295787199998,Alternating,Random shuffle,-0.0057,1.0,-0.3112,0.2998,False
+GGNG,0.05965295787199998,Alternating,Small blocks,-0.1262,0.8307,-0.4317,0.1793,False
+GGNG,0.05965295787199998,Diblock,Higher-$\lambda$ center,-0.2738,0.0964,-0.5793,0.0317,False
+GGNG,0.05965295787199998,Diblock,Higher-$\lambda$ ends,0.154,0.6608,-0.1514,0.4595,False
+GGNG,0.05965295787199998,Diblock,Large blocks,0.0094,1.0,-0.2961,0.3149,False
+GGNG,0.05965295787199998,Diblock,Medium blocks,-0.0377,0.9998,-0.3432,0.2678,False
+GGNG,0.05965295787199998,Diblock,Random shuffle,-0.0087,1.0,-0.3142,0.2967,False
+GGNG,0.05965295787199998,Diblock,Small blocks,-0.1292,0.8145,-0.4347,0.1762,False
+GGNG,0.05965295787199998,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.4279,0.0034,0.1224,0.7334,True
+GGNG,0.05965295787199998,Higher-$\lambda$ center,Large blocks,0.2833,0.0796,-0.0222,0.5888,False
+GGNG,0.05965295787199998,Higher-$\lambda$ center,Medium blocks,0.2361,0.1994,-0.0694,0.5416,False
+GGNG,0.05965295787199998,Higher-$\lambda$ center,Random shuffle,0.2651,0.1148,-0.0404,0.5706,False
+GGNG,0.05965295787199998,Higher-$\lambda$ center,Small blocks,0.1446,0.7226,-0.1609,0.4501,False
+GGNG,0.05965295787199998,Higher-$\lambda$ ends,Large blocks,-0.1446,0.7225,-0.4501,0.1609,False
+GGNG,0.05965295787199998,Higher-$\lambda$ ends,Medium blocks,-0.1917,0.4144,-0.4972,0.1137,False
+GGNG,0.05965295787199998,Higher-$\lambda$ ends,Random shuffle,-0.1628,0.6021,-0.4683,0.1427,False
+GGNG,0.05965295787199998,Higher-$\lambda$ ends,Small blocks,-0.2833,0.0795,-0.5888,0.0222,False
+GGNG,0.05965295787199998,Large blocks,Medium blocks,-0.0471,0.9992,-0.3526,0.2583,False
+GGNG,0.05965295787199998,Large blocks,Random shuffle,-0.0182,1.0,-0.3237,0.2873,False
+GGNG,0.05965295787199998,Large blocks,Small blocks,-0.1387,0.7595,-0.4442,0.1668,False
+GGNG,0.05965295787199998,Medium blocks,Random shuffle,0.029,1.0,-0.2765,0.3345,False
+GGNG,0.05965295787199998,Medium blocks,Small blocks,-0.0915,0.961,-0.397,0.214,False
+GGNG,0.05965295787199998,Random shuffle,Small blocks,-0.1205,0.8597,-0.426,0.185,False
+LGIP,0.07168216711020003,Alternating,Diblock,0.0676,0.8794,-0.11,0.2452,False
+LGIP,0.07168216711020003,Alternating,Higher-$\lambda$ center,0.0532,0.9612,-0.1244,0.2308,False
+LGIP,0.07168216711020003,Alternating,Higher-$\lambda$ ends,-0.0513,0.9677,-0.229,0.1263,False
+LGIP,0.07168216711020003,Alternating,Large blocks,0.002,1.0,-0.1756,0.1796,False
+LGIP,0.07168216711020003,Alternating,Medium blocks,0.0007,1.0,-0.177,0.1783,False
+LGIP,0.07168216711020003,Alternating,Random shuffle,0.0524,0.9641,-0.1252,0.23,False
+LGIP,0.07168216711020003,Alternating,Small blocks,0.0752,0.8139,-0.1024,0.2528,False
+LGIP,0.07168216711020003,Diblock,Higher-$\lambda$ center,-0.0144,1.0,-0.192,0.1632,False
+LGIP,0.07168216711020003,Diblock,Higher-$\lambda$ ends,-0.1189,0.3416,-0.2965,0.0587,False
+LGIP,0.07168216711020003,Diblock,Large blocks,-0.0656,0.8941,-0.2432,0.112,False
+LGIP,0.07168216711020003,Diblock,Medium blocks,-0.0669,0.8844,-0.2446,0.1107,False
+LGIP,0.07168216711020003,Diblock,Random shuffle,-0.0152,1.0,-0.1928,0.1624,False
+LGIP,0.07168216711020003,Diblock,Small blocks,0.0076,1.0,-0.17,0.1853,False
+LGIP,0.07168216711020003,Higher-$\lambda$ center,Higher-$\lambda$ ends,-0.1045,0.4893,-0.2821,0.0731,False
+LGIP,0.07168216711020003,Higher-$\lambda$ center,Large blocks,-0.0512,0.9682,-0.2288,0.1264,False
+LGIP,0.07168216711020003,Higher-$\lambda$ center,Medium blocks,-0.0525,0.9636,-0.2302,0.1251,False
+LGIP,0.07168216711020003,Higher-$\lambda$ center,Random shuffle,-0.0008,1.0,-0.1784,0.1768,False
+LGIP,0.07168216711020003,Higher-$\lambda$ center,Small blocks,0.022,0.9998,-0.1556,0.1997,False
+LGIP,0.07168216711020003,Higher-$\lambda$ ends,Large blocks,0.0533,0.9606,-0.1243,0.231,False
+LGIP,0.07168216711020003,Higher-$\lambda$ ends,Medium blocks,0.052,0.9655,-0.1256,0.2296,False
+LGIP,0.07168216711020003,Higher-$\lambda$ ends,Random shuffle,0.1037,0.4983,-0.0739,0.2813,False
+LGIP,0.07168216711020003,Higher-$\lambda$ ends,Small blocks,0.1265,0.2758,-0.0511,0.3042,False
+LGIP,0.07168216711020003,Large blocks,Medium blocks,-0.0013,1.0,-0.179,0.1763,False
+LGIP,0.07168216711020003,Large blocks,Random shuffle,0.0504,0.9707,-0.1272,0.228,False
+LGIP,0.07168216711020003,Large blocks,Small blocks,0.0732,0.8323,-0.1044,0.2508,False
+LGIP,0.07168216711020003,Medium blocks,Random shuffle,0.0517,0.9664,-0.1259,0.2293,False
+LGIP,0.07168216711020003,Medium blocks,Small blocks,0.0746,0.8201,-0.1031,0.2522,False
+LGIP,0.07168216711020003,Random shuffle,Small blocks,0.0228,0.9998,-0.1548,0.2005,False
+GGAVG,0.08295482038419999,Alternating,Diblock,-0.1108,0.9404,-0.4503,0.2288,False
+GGAVG,0.08295482038419999,Alternating,Higher-$\lambda$ center,-0.0147,1.0,-0.3543,0.3248,False
+GGAVG,0.08295482038419999,Alternating,Higher-$\lambda$ ends,0.0646,0.9971,-0.275,0.4041,False
+GGAVG,0.08295482038419999,Alternating,Large blocks,0.0601,0.9981,-0.2794,0.3997,False
+GGAVG,0.08295482038419999,Alternating,Medium blocks,0.0149,1.0,-0.3246,0.3545,False
+GGAVG,0.08295482038419999,Alternating,Random shuffle,0.0446,0.9997,-0.2949,0.3842,False
+GGAVG,0.08295482038419999,Alternating,Small blocks,0.0181,1.0,-0.3215,0.3576,False
+GGAVG,0.08295482038419999,Diblock,Higher-$\lambda$ center,0.0961,0.9711,-0.2435,0.4356,False
+GGAVG,0.08295482038419999,Diblock,Higher-$\lambda$ ends,0.1754,0.6358,-0.1642,0.5149,False
+GGAVG,0.08295482038419999,Diblock,Large blocks,0.1709,0.6626,-0.1686,0.5105,False
+GGAVG,0.08295482038419999,Diblock,Medium blocks,0.1257,0.893,-0.2139,0.4653,False
+GGAVG,0.08295482038419999,Diblock,Random shuffle,0.1554,0.7525,-0.1841,0.495,False
+GGAVG,0.08295482038419999,Diblock,Small blocks,0.1288,0.8809,-0.2107,0.4684,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.0793,0.9901,-0.2603,0.4189,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ center,Large blocks,0.0748,0.9929,-0.2647,0.4144,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ center,Medium blocks,0.0296,1.0,-0.3099,0.3692,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ center,Random shuffle,0.0593,0.9983,-0.2802,0.3989,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ center,Small blocks,0.0328,1.0,-0.3068,0.3723,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ ends,Large blocks,-0.0044,1.0,-0.344,0.3351,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ ends,Medium blocks,-0.0497,0.9994,-0.3892,0.2899,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ ends,Random shuffle,-0.02,1.0,-0.3595,0.3196,False
+GGAVG,0.08295482038419999,Higher-$\lambda$ ends,Small blocks,-0.0465,0.9996,-0.3861,0.293,False
+GGAVG,0.08295482038419999,Large blocks,Medium blocks,-0.0452,0.9997,-0.3848,0.2943,False
+GGAVG,0.08295482038419999,Large blocks,Random shuffle,-0.0155,1.0,-0.3551,0.3241,False
+GGAVG,0.08295482038419999,Large blocks,Small blocks,-0.0421,0.9998,-0.3816,0.2975,False
+GGAVG,0.08295482038419999,Medium blocks,Random shuffle,0.0297,1.0,-0.3098,0.3693,False
+GGAVG,0.08295482038419999,Medium blocks,Small blocks,0.0031,1.0,-0.3364,0.3427,False
+GGAVG,0.08295482038419999,Random shuffle,Small blocks,-0.0266,1.0,-0.3661,0.313,False
+VAIP,0.11360328410620002,Alternating,Diblock,-0.0618,0.9981,-0.41,0.2863,False
+VAIP,0.11360328410620002,Alternating,Higher-$\lambda$ center,-0.5369,0.0013,-0.885,-0.1887,True
+VAIP,0.11360328410620002,Alternating,Higher-$\lambda$ ends,0.4498,0.0071,0.1017,0.7979,True
+VAIP,0.11360328410620002,Alternating,Large blocks,-0.0075,1.0,-0.3556,0.3406,False
+VAIP,0.11360328410620002,Alternating,Medium blocks,0.0092,1.0,-0.3389,0.3573,False
+VAIP,0.11360328410620002,Alternating,Random shuffle,-0.0017,1.0,-0.3498,0.3464,False
+VAIP,0.11360328410620002,Alternating,Small blocks,-0.041,0.9999,-0.3891,0.3071,False
+VAIP,0.11360328410620002,Diblock,Higher-$\lambda$ center,-0.475,0.0044,-0.8231,-0.1269,True
+VAIP,0.11360328410620002,Diblock,Higher-$\lambda$ ends,0.5117,0.0022,0.1635,0.8598,True
+VAIP,0.11360328410620002,Diblock,Large blocks,0.0544,0.9992,-0.2938,0.4025,False
+VAIP,0.11360328410620002,Diblock,Medium blocks,0.071,0.9955,-0.2771,0.4191,False
+VAIP,0.11360328410620002,Diblock,Random shuffle,0.0601,0.9984,-0.288,0.4083,False
+VAIP,0.11360328410620002,Diblock,Small blocks,0.0209,1.0,-0.3273,0.369,False
+VAIP,0.11360328410620002,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.9867,0.0,0.6385,1.3348,True
+VAIP,0.11360328410620002,Higher-$\lambda$ center,Large blocks,0.5294,0.0015,0.1813,0.8775,True
+VAIP,0.11360328410620002,Higher-$\lambda$ center,Medium blocks,0.546,0.0011,0.1979,0.8942,True
+VAIP,0.11360328410620002,Higher-$\lambda$ center,Random shuffle,0.5352,0.0014,0.187,0.8833,True
+VAIP,0.11360328410620002,Higher-$\lambda$ center,Small blocks,0.4959,0.0029,0.1478,0.844,True
+VAIP,0.11360328410620002,Higher-$\lambda$ ends,Large blocks,-0.4573,0.0061,-0.8054,-0.1092,True
+VAIP,0.11360328410620002,Higher-$\lambda$ ends,Medium blocks,-0.4406,0.0085,-0.7887,-0.0925,True
+VAIP,0.11360328410620002,Higher-$\lambda$ ends,Random shuffle,-0.4515,0.0069,-0.7996,-0.1034,True
+VAIP,0.11360328410620002,Higher-$\lambda$ ends,Small blocks,-0.4908,0.0032,-0.8389,-0.1427,True
+VAIP,0.11360328410620002,Large blocks,Medium blocks,0.0167,1.0,-0.3315,0.3648,False
+VAIP,0.11360328410620002,Large blocks,Random shuffle,0.0058,1.0,-0.3423,0.3539,False
+VAIP,0.11360328410620002,Large blocks,Small blocks,-0.0335,1.0,-0.3816,0.3146,False
+VAIP,0.11360328410620002,Medium blocks,Random shuffle,-0.0109,1.0,-0.359,0.3372,False
+VAIP,0.11360328410620002,Medium blocks,Small blocks,-0.0502,0.9995,-0.3983,0.2979,False
+VAIP,0.11360328410620002,Random shuffle,Small blocks,-0.0393,0.9999,-0.3874,0.3088,False
+VGIG,0.11360328410620002,Alternating,Diblock,0.0163,1.0,-0.3154,0.3479,False
+VGIG,0.11360328410620002,Alternating,Higher-$\lambda$ center,-0.3945,0.0142,-0.7262,-0.0628,True
+VGIG,0.11360328410620002,Alternating,Higher-$\lambda$ ends,0.4049,0.0115,0.0732,0.7365,True
+VGIG,0.11360328410620002,Alternating,Large blocks,0.1363,0.8342,-0.1953,0.468,False
+VGIG,0.11360328410620002,Alternating,Medium blocks,-0.0476,0.9995,-0.3793,0.2841,False
+VGIG,0.11360328410620002,Alternating,Random shuffle,0.0059,1.0,-0.3258,0.3376,False
+VGIG,0.11360328410620002,Alternating,Small blocks,-0.018,1.0,-0.3497,0.3137,False
+VGIG,0.11360328410620002,Diblock,Higher-$\lambda$ center,-0.4107,0.0102,-0.7424,-0.0791,True
+VGIG,0.11360328410620002,Diblock,Higher-$\lambda$ ends,0.3886,0.016,0.0569,0.7203,True
+VGIG,0.11360328410620002,Diblock,Large blocks,0.1201,0.9031,-0.2116,0.4517,False
+VGIG,0.11360328410620002,Diblock,Medium blocks,-0.0639,0.9969,-0.3956,0.2678,False
+VGIG,0.11360328410620002,Diblock,Random shuffle,-0.0104,1.0,-0.342,0.3213,False
+VGIG,0.11360328410620002,Diblock,Small blocks,-0.0343,0.9999,-0.3659,0.2974,False
+VGIG,0.11360328410620002,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.7993,0.0,0.4677,1.131,True
+VGIG,0.11360328410620002,Higher-$\lambda$ center,Large blocks,0.5308,0.0009,0.1991,0.8625,True
+VGIG,0.11360328410620002,Higher-$\lambda$ center,Medium blocks,0.3469,0.0371,0.0152,0.6785,True
+VGIG,0.11360328410620002,Higher-$\lambda$ center,Random shuffle,0.4004,0.0126,0.0687,0.7321,True
+VGIG,0.11360328410620002,Higher-$\lambda$ center,Small blocks,0.3765,0.0205,0.0448,0.7082,True
+VGIG,0.11360328410620002,Higher-$\lambda$ ends,Large blocks,-0.2685,0.162,-0.6002,0.0632,False
+VGIG,0.11360328410620002,Higher-$\lambda$ ends,Medium blocks,-0.4525,0.0044,-0.7842,-0.1208,True
+VGIG,0.11360328410620002,Higher-$\lambda$ ends,Random shuffle,-0.399,0.013,-0.7306,-0.0673,True
+VGIG,0.11360328410620002,Higher-$\lambda$ ends,Small blocks,-0.4229,0.008,-0.7545,-0.0912,True
+VGIG,0.11360328410620002,Large blocks,Medium blocks,-0.1839,0.5575,-0.5156,0.1477,False
+VGIG,0.11360328410620002,Large blocks,Random shuffle,-0.1304,0.8615,-0.4621,0.2013,False
+VGIG,0.11360328410620002,Large blocks,Small blocks,-0.1543,0.7381,-0.486,0.1774,False
+VGIG,0.11360328410620002,Medium blocks,Random shuffle,0.0535,0.999,-0.2782,0.3852,False
+VGIG,0.11360328410620002,Medium blocks,Small blocks,0.0296,1.0,-0.3021,0.3613,False
+VGIG,0.11360328410620002,Random shuffle,Small blocks,-0.0239,1.0,-0.3556,0.3078,False
+VAIG,0.16919221174520005,Alternating,Diblock,0.0725,0.9985,-0.3512,0.4961,False
+VAIG,0.16919221174520005,Alternating,Higher-$\lambda$ center,-0.6159,0.0024,-1.0396,-0.1922,True
+VAIG,0.16919221174520005,Alternating,Higher-$\lambda$ ends,0.3505,0.1461,-0.0732,0.7742,False
+VAIG,0.16919221174520005,Alternating,Large blocks,-0.1667,0.8611,-0.5904,0.257,False
+VAIG,0.16919221174520005,Alternating,Medium blocks,-0.184,0.7953,-0.6077,0.2397,False
+VAIG,0.16919221174520005,Alternating,Random shuffle,-0.0981,0.9905,-0.5218,0.3256,False
+VAIG,0.16919221174520005,Alternating,Small blocks,-0.0212,1.0,-0.4449,0.4025,False
+VAIG,0.16919221174520005,Diblock,Higher-$\lambda$ center,-0.6884,0.0008,-1.112,-0.2647,True
+VAIG,0.16919221174520005,Diblock,Higher-$\lambda$ ends,0.2781,0.3637,-0.1456,0.7017,False
+VAIG,0.16919221174520005,Diblock,Large blocks,-0.2392,0.5373,-0.6629,0.1845,False
+VAIG,0.16919221174520005,Diblock,Medium blocks,-0.2564,0.4566,-0.6801,0.1673,False
+VAIG,0.16919221174520005,Diblock,Random shuffle,-0.1706,0.8475,-0.5942,0.2531,False
+VAIG,0.16919221174520005,Diblock,Small blocks,-0.0937,0.9928,-0.5173,0.33,False
+VAIG,0.16919221174520005,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.9664,0.0,0.5427,1.3901,True
+VAIG,0.16919221174520005,Higher-$\lambda$ center,Large blocks,0.4492,0.0337,0.0255,0.8729,True
+VAIG,0.16919221174520005,Higher-$\lambda$ center,Medium blocks,0.4319,0.0441,0.0083,0.8556,True
+VAIG,0.16919221174520005,Higher-$\lambda$ center,Random shuffle,0.5178,0.0114,0.0941,0.9415,True
+VAIG,0.16919221174520005,Higher-$\lambda$ center,Small blocks,0.5947,0.0034,0.171,1.0184,True
+VAIG,0.16919221174520005,Higher-$\lambda$ ends,Large blocks,-0.5172,0.0115,-0.9409,-0.0935,True
+VAIG,0.16919221174520005,Higher-$\lambda$ ends,Medium blocks,-0.5345,0.0087,-0.9582,-0.1108,True
+VAIG,0.16919221174520005,Higher-$\lambda$ ends,Random shuffle,-0.4486,0.034,-0.8723,-0.0249,True
+VAIG,0.16919221174520005,Higher-$\lambda$ ends,Small blocks,-0.3717,0.1084,-0.7954,0.052,False
+VAIG,0.16919221174520005,Large blocks,Medium blocks,-0.0173,1.0,-0.4409,0.4064,False
+VAIG,0.16919221174520005,Large blocks,Random shuffle,0.0686,0.9989,-0.3551,0.4923,False
+VAIG,0.16919221174520005,Large blocks,Small blocks,0.1455,0.9238,-0.2782,0.5692,False
+VAIG,0.16919221174520005,Medium blocks,Random shuffle,0.0859,0.9957,-0.3378,0.5096,False
+VAIG,0.16919221174520005,Medium blocks,Small blocks,0.1628,0.8744,-0.2609,0.5865,False
+VAIG,0.16919221174520005,Random shuffle,Small blocks,0.0769,0.9978,-0.3468,0.5006,False
+AVGFG,0.22120943548439997,Alternating,Diblock,0.4421,0.0014,0.1543,0.7299,True
+AVGFG,0.22120943548439997,Alternating,Higher-$\lambda$ center,-0.2766,0.0643,-0.5643,0.0112,False
+AVGFG,0.22120943548439997,Alternating,Higher-$\lambda$ ends,0.2721,0.071,-0.0157,0.5598,False
+AVGFG,0.22120943548439997,Alternating,Large blocks,-0.2476,0.12,-0.5354,0.0401,False
+AVGFG,0.22120943548439997,Alternating,Medium blocks,-0.1489,0.6336,-0.4367,0.1388,False
+AVGFG,0.22120943548439997,Alternating,Random shuffle,-0.0357,0.9998,-0.3235,0.2521,False
+AVGFG,0.22120943548439997,Alternating,Small blocks,-0.1622,0.5389,-0.45,0.1256,False
+AVGFG,0.22120943548439997,Diblock,Higher-$\lambda$ center,-0.7187,0.0,-1.0064,-0.4309,True
+AVGFG,0.22120943548439997,Diblock,Higher-$\lambda$ ends,-0.17,0.4846,-0.4578,0.1177,False
+AVGFG,0.22120943548439997,Diblock,Large blocks,-0.6897,0.0,-0.9775,-0.402,True
+AVGFG,0.22120943548439997,Diblock,Medium blocks,-0.591,0.0001,-0.8788,-0.3033,True
+AVGFG,0.22120943548439997,Diblock,Random shuffle,-0.4778,0.0006,-0.7656,-0.19,True
+AVGFG,0.22120943548439997,Diblock,Small blocks,-0.6043,0.0,-0.8921,-0.3165,True
+AVGFG,0.22120943548439997,Higher-$\lambda$ center,Higher-$\lambda$ ends,0.5486,0.0001,0.2608,0.8364,True
+AVGFG,0.22120943548439997,Higher-$\lambda$ center,Large blocks,0.0289,1.0,-0.2589,0.3167,False
+AVGFG,0.22120943548439997,Higher-$\lambda$ center,Medium blocks,0.1276,0.7789,-0.1602,0.4154,False
+AVGFG,0.22120943548439997,Higher-$\lambda$ center,Random shuffle,0.2408,0.1381,-0.0469,0.5286,False
+AVGFG,0.22120943548439997,Higher-$\lambda$ center,Small blocks,0.1143,0.8555,-0.1734,0.4021,False
+AVGFG,0.22120943548439997,Higher-$\lambda$ ends,Large blocks,-0.5197,0.0002,-0.8075,-0.2319,True
+AVGFG,0.22120943548439997,Higher-$\lambda$ ends,Medium blocks,-0.421,0.0023,-0.7088,-0.1332,True
+AVGFG,0.22120943548439997,Higher-$\lambda$ ends,Random shuffle,-0.3078,0.0317,-0.5956,-0.02,True
+AVGFG,0.22120943548439997,Higher-$\lambda$ ends,Small blocks,-0.4343,0.0017,-0.7221,-0.1465,True
+AVGFG,0.22120943548439997,Large blocks,Medium blocks,0.0987,0.9244,-0.1891,0.3865,False
+AVGFG,0.22120943548439997,Large blocks,Random shuffle,0.2119,0.2433,-0.0759,0.4997,False
+AVGFG,0.22120943548439997,Large blocks,Small blocks,0.0854,0.9629,-0.2024,0.3732,False
+AVGFG,0.22120943548439997,Medium blocks,Random shuffle,0.1132,0.8611,-0.1745,0.401,False
+AVGFG,0.22120943548439997,Medium blocks,Small blocks,-0.0133,1.0,-0.3011,0.2745,False
+AVGFG,0.22120943548439997,Random shuffle,Small blocks,-0.1265,0.7858,-0.4143,0.1613,False

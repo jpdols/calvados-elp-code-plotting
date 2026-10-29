@@ -1,0 +1,13 @@
+pair,n_architectures,min_reps,max_reps
+AVGAG,8,3,3
+AVGFG,8,3,3
+GGAVG,8,3,3
+GGNG,8,3,3
+IGIP,8,3,3
+IGLG,8,3,3
+LGIP,8,3,3
+VAIG,8,3,3
+VAIP,8,3,3
+VGAVG,8,3,3
+VGIG,8,3,3
+VGIP,8,3,3
