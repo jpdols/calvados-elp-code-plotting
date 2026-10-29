@@ -1,0 +1,11 @@
+DR1 INPUT INVENTORY
+Scripts: plot_conformational_regimes_DR1ab_v6_SOLID_MEANS.py; plot_conformational_regimes_DR1ab_v7_300K_SUPPLEMENT.py
+
+Large raw inputs (retain on DelftBlue, not Git):
+- VGIP_detailed_stride1/all_rg_values.csv
+- VGIG_detailed_stride1/all_rg_values.csv
+- VAIP_detailed_stride1/all_rg_values.csv
+- VAIG_detailed_stride1/all_rg_values.csv
+- Pure reference/control trajectory folders: top.pdb (or matching PDB) and *.dcd for each control and temperature used by the scripts; one example is 001_VPGVG.dcd.
+Derived outputs (NOT inputs): pure_baseline_statistics.csv, architecture_level_statistics.csv, composition_level_statistics.csv, temperature_response_by_architecture.csv.
+Check script's ROOT / BASE directory settings before running; retain original ID and replicate folder layout.

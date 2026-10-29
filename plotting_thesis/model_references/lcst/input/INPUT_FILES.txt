@@ -1,0 +1,8 @@
+LCST / REFERENCE ARCHITECTURE INPUT INVENTORY
+Script: analyse_reference_architecture_370K_v2.py
+
+- 370 K reference architecture trajectory folders containing *.dcd
+- top.pdb, topology.pdb or matching PDB for each trajectory
+- Directory structure enabling identification of independent replicates.
+Input root is supplied via --root; script discovers trajectories recursively.
+Generated: reference_370K_per_trajectory.csv, reference_370K_summary.csv, reference_370K_replicate_mapping.csv and reference_370K_architecture_comparison.pdf/png.

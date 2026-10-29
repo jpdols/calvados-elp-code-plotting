@@ -1,0 +1,10 @@
+CALVADOS GAMMA-SCALING INPUT INVENTORY
+Scripts: analyse_gamma_scaling.py; plot_gamma_scaling_thesis.py; plot_lambda_gamma.py
+
+Primary:
+- Gamma-scaling simulation run directories: *.dcd with corresponding top.pdb / topology.pdb / matching PDB.
+- Temperature-specific residue parameter CSV files matching residues_gamma_<gamma>_<temperature>K_argdefault_minus.csv naming (exact gamma range/temperatures set in scripts).
+Intermediate required for thesis figure:
+- gamma_scaling_summary.csv (produced by analyse_gamma_scaling.py; required by plot_gamma_scaling_thesis.py via --csv)
+Also generated: lambda_VIP_vs_temperature.csv.
+plot_lambda_gamma.py uses residue lambda CSVs and emits lambda_IVA_vs_temperature_gamma.pdf/png (note differing label VIP vs IVA in script names).

@@ -1,0 +1,8 @@
+DR7 INPUT INVENTORY
+Scripts: plot_dr7_overview_3rep.py; plot_dr7_thesis.py
+
+These plotting scripts expect PRECOMPUTED summary tables:
+- summary_across_replicates.csv (required by plot_dr7_thesis.py --summary and typically by overview --summary)
+- summary_per_replicate.csv (recommended plot_dr7_thesis.py --replicates; required by plot_dr7_overview_3rep.py --per-replicate)
+Preserve architecture identifiers and replicate identities.
+The generating analysis script is not in this folder; trace/retrieve the upstream DR7 summary files rather than assuming a generic library summary is interchangeable.

@@ -1,0 +1,9 @@
+LAB MODEL VALIDATION INPUT INVENTORY
+Script: analyse_lab_temperature_sweep_v6_FINAL_C_inset.py
+
+Per experimental-reference sequence and temperature:
+- input/idr.fasta stored within its original simulation input folder
+- top.pdb (or another corresponding topology PDB)
+- *.dcd trajectories, with matching topology
+Preserve sequence names, temperature levels, replicate hierarchy and original relative directory structure; see script's configured root arguments.
+Outputs include lab_temperature_sweep_summary.csv, lab_sequence_information.csv and lab_temperature_four_panel_FINAL_C_INSET.pdf/png.

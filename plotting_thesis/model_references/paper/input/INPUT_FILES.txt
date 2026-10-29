@@ -1,0 +1,9 @@
+PUBLISHED-REFERENCE TEMPERATURE SWEEP INPUT INVENTORY
+Script: analyse_reference_temperature_sweeps.py
+
+Per reference sequence / simulated temperature:
+- input/idr.fasta (actual sequence of the simulation)
+- top.pdb or matching PDB trajectory topology
+- *.dcd simulation trajectories
+Preserve the original reference-sequence, temperature and replicate directory layout.
+The script checks the sequence against FASTA and writes reference_sequence_information.csv and reference_temperature_sweep_summary.csv as derived outputs.

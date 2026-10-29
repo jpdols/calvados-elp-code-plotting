@@ -1,0 +1,7 @@
+METHODS INPUT INVENTORY
+Scripts: make_methods_supplement_architectures_thesis.py; plot_central90_explanation.py; plot_motif_architectures_thesis.py
+
+- plot_central90_explanation.py reads lib1R4_triplicate_stride1/all_rg_values.csv; its file path is hardcoded and must be updated to this environment or supplied by adapting the script.
+- Architecture motif patterns/design definitions for the two architecture illustration scripts are embedded in Python source; they do not currently require a separate external input dataset.
+- For reproducibility of the illustrated sequences, preserve the matching library manifest / FASTA as reference material (not currently a required file for those two scripts).
+NOTE: plot_central90_explanation.py currently creates VGIG_R4_central50_overlay, despite its central90 name. Check this mismatch.

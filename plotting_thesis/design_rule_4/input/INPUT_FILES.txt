@@ -1,0 +1,11 @@
+DR4 INPUT INVENTORY
+Scripts: analyse_charge_distribution_rg_v3.py; plot_design_rule4_thesis_v20_final.py
+
+Large primary inputs:
+- VGEG_detailed_stride1/all_rg_values.csv
+- VGKG_detailed_stride1/all_rg_values.csv
+- IGKG_detailed_stride1/all_rg_values.csv
+Analysis-produced file REQUIRED by final plotter:
+- rg_summary_all_libraries.csv (produced by analyse_charge_distribution_rg_v3.py)
+Other analysis outputs: rg_summary_VGEG.csv, rg_summary_VGKG.csv, rg_summary_IGKG.csv, sanity_and_overall_summary.csv.
+Run analysis first, then pass its output CSV into plot_design_rule4_thesis_v20_final.py via --input.

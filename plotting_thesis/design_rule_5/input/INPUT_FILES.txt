@@ -1,0 +1,14 @@
+DR5 INPUT INVENTORY
+Scripts: analyse_dr5_rg.py; analyse_dr5_ternary_rg.py; plot_dr5_scd_370K_LABELS_FIXED.py; plot_dr5_ternary_focused_updated.py
+
+Primary frame-level datasets:
+- EGKG-family all_rg_values.csv (exact path provided by --input to analyse_dr5_rg.py)
+- VGKGEG/all_rg_values.csv (provided by --vg)
+- IGKGEG/all_rg_values.csv (provided by --ig)
+Upstream-generated plotting inputs:
+- summary_per_replicate.csv from DR5 analysis, for plot_dr5_scd_370K_LABELS_FIXED.py (--summary)
+- ternary summary_per_replicate.csv from analyse_dr5_ternary_rg.py, for plot_dr5_ternary_focused_updated.py (--summary)
+Sequence input:
+- Architecture FASTA file for the eight SCD designs, provided via --fasta (recommended); ensure actual simulated sequences.
+Outputs such as summary_across_replicates.csv, summary_across_replicates_long.csv, data_quality.csv and dwell_events.csv are derived results, not raw inputs.
+Keep EGKG and ternary summaries in separate subdirectories to prevent filename collisions.

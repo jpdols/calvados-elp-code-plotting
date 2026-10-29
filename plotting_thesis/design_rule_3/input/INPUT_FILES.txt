@@ -1,0 +1,11 @@
+DR3 INPUT INVENTORY
+Scripts: plot_DR3_three_thesis_figures_v13.py; plot_DR3_BB_two_panel_thesis_v2.py
+
+- VGIP_detailed_stride1/rg_state_summary_370K.csv
+- VGIG_detailed_stride1/rg_state_summary_370K.csv
+- VAIP_detailed_stride1/rg_state_summary_370K.csv
+- VAIG_detailed_stride1/rg_state_summary_370K.csv
+  OR a single combined rg_state_summary_370K.csv supplied via --input.
+- R4 frame-level all_rg_values.csv containing independent simulations (optional --r4-all-rg for R4-specific verification; preserve replicate metadata).
+- Backbone-contact data table required by plot_DR3_BB_two_panel_thesis_v2.py via --input. The filename is selected by the caller; verify source schema/producer before collection.
+Generated CSVs include DR3_ratio_architecture_profiles.csv and DR3_R4_* summaries; these belong under output/.

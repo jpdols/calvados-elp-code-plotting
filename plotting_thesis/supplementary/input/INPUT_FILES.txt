@@ -1,0 +1,8 @@
+SUPPLEMENTARY GENERAL Rg INPUT INVENTORY
+Script: standard_rg_analysis.py
+
+- A single all_rg_values.csv via its file argument, OR
+- A root directory containing one or more all_rg_values.csv files recursively.
+This is a generic CSV summary utility; it does not require reference trajectories/PDBs.
+Output is a derived Rg statistics CSV. Preserve original temperature, frame and replicate columns when collecting.
+

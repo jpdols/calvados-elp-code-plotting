@@ -1,0 +1,11 @@
+REFERENCE SEQUENCES / URRY INPUT INVENTORY
+Scripts: plot_base_elp_references.py; plot_urry_correlation.py
+
+Base-ELP trajectories:
+- Original references/<sequence>/<temperature>/<replicate>/<run>/*.dcd with matching top.pdb (or matching PDB).
+Examples include VPGEG at 370 K and VPGFG at 300 K; use the full reference hierarchy rather than these examples alone.
+Urry comparison:
+- Urry.xlsx
+- residues_gamma_6p0_300K_argdefault_minus.csv
+- residues_gamma_6p0_370K_argdefault_minus.csv
+Generated outputs: base_elp_reference_replicates.csv, base_elp_reference_summary.csv, urry_calvados_merged_data.csv and correlation figures/statistics.
